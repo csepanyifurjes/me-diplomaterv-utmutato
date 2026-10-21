@@ -6,11 +6,13 @@ Az irodalomkutatás feladata biztosítani, hogy a végzett kutatás és az elké
 
 ---
 
-## A jó irodalomkutatás 3 alapszabálya
+## A jó irodalomkutatás aranyszabályai
 
-1. **Nem mesekönyv:** Ne csak összefoglalja, vagy felsorolja a cikkeket egymás után, hanem **hasonlítsa össze** őket!
-2. **Frissesség és alapok:** Használjon klasszikus alapműveket (fogalmakhoz), de a források többsége legyen **az elmúlt 5-10 évből**.
-3. **Nem Wikipédia:** Csak lektorált (*peer-reviewed*) cikkeket, könyveket, konferenciakiadványokat használjon.
+1. **Nem mesekönyv (Kritikus szemlélet):** Ne csak leírja vagy egymás után felsorolja a cikkeket, hanem **hasonlítsa össze és vesse össze őket!** Egyetlen forrás állításait ne fogadja el vakon — keressen több, egymástól független forrást a megállapítások igazolására.
+2. **Frissesség és alapok:** Használjon klasszikus alapműveket a fogalmak tisztázására, de a források többsége legyen **az elmúlt 5–10 évből**.
+3. **Források és a Wikipédia használata:**
+   * **Elfogadható források:** Lektorált (*peer-reviewed*) tudományos cikkek, könyvek, konferenciakiadványok mellett **hivatalos weboldalak, szakmai weblapok és publikus forráskódok (pl. GitHub repók)** is hivatkozhatóak, ha azok a témához relevánsak és megbízhatóak.
+   * **Mi a helyzet a Wikipédiával?** A Wikipédia jó kiindulópont a témával való ismerkedéshez, de közvetlenül hivatkozni ritkán szerencsés. Ha a Wikipédiát használja, **nézze meg a szócikk alján található eredeti forrásokat**, keresse vissza azokat, és a tényleges tudományos/hivatalos forrásra hivatkozzon!
 
 ---
 
@@ -26,12 +28,25 @@ graph TD
 
 ### 1. Kulcsszavak és a téma lehatárolása
 
-- Fogalmazza meg a fő kérdésedet!
-- Gyűjtsön **angol kulcsszavakat** (a releváns szakirodalom 90%-a angolul van).
-- Használjon **Boolean (halmaz) operátorokat**:
-  - `AND` (szűkít): `computer vision AND autonomous vehicles`
-  - `OR` (bővít): `deep learning OR neural networks`
-  - `""` (ponton kifejezés): `"object detection"`
+Fogalmazza meg a fő kérdést (Research Question) vagy a hipotézist! De ne csak egyetlen kifejezésre keressen rá! 
+A témakör mellett érdemes több szempont alapján felépíteni a keresést:
+
+* **Témakör és kulcsszavak:** 
+  * Gyűjtsön szinonímákat (pl. *machine learning*, *automated decision-making*).
+  * Használjon halmazműveleteket: `AND`, `OR`, `NOT` (pl. `"neural networks" AND "medical imaging"`).
+* **Kulcsszerzők (*Key authors*):** 
+  * Ha talál 1-2 nagyon jó cikket, nézze meg, kik a szerzői! A szakterület meghatározó kutatói gyakran több kulcsfontosságú cikkben is társszerzők.
+* **Neves folyóiratok és konferenciák:** 
+  * Az adott szakterület vezető folyóiratai (pl. *IEEE*, *Elsevier / Springer szakkfolyóiratok*) garantálják a magas szakmai minőséget.
+* **Archívumok és preprint szerverek:** 
+  * A legfrissebb, még megjelenés alatt álló kutatásokhoz használjon nyílt archívumokat (pl. **arXiv**, **ResearchGate**, **IEEE Xplore**, **ACM Digital Library**).
+* **Megbízható kiadók:** 
+  * Preferálja az elismert tudományos kiadókat (pl. *Springer*, *Elsevier*, *IEEE*, *Wiley*).
+* **Miskolci Egyetemi szerzők:**
+  * Ne feledje, hogy a **Miskolci Egyetem oktatói és kutatói** is számos szakterületen publikálnak nemzetközileg elismert cikkeket. Érdemes rákeresni a saját oktatói, konzulensei publikációira is: ezzel nemcsak releváns, közvetlenül elérhető hazai forrásokhoz juthat, de segíti az egyetem és a konzulensek tudományos elismertségét is. Ráadásul ha kérdése merül fel egy cikkel kapcsolatban, a szerzők közvetlenül a campuson elérhetőek!
+* **Kezdje áttekintő (*Review / Survey*) cikkekkel!**
+  * Ha egy széles témakörben könnyen elveszne a több száz szakcikk között, keressen rá a **"review"** vagy **"survey"** kulcsszavakra (pl. *"machine learning in healthcare survey"*). 
+  A *review* cikkek célja pontosan az, hogy összefoglalják és strukturálják egy teljes kutatási terület főbb irányait, eredményeit és nyitott kérdéseit. Néhány ilyen cikk átnézésével sokkal gyorsabban kap átfogó képet a témáról, és könnyebben lehatárolhatja a saját szakdolgozati/diplomaterv témáját is!
 
 ### 2. Hol keressen? (Megbízható adatbázisok)
 
@@ -42,7 +57,7 @@ graph TD
 ### 3. Gyors szűrés (Hogyan olvashat hatékonyan?)
 
 Ne olvassa el a teljes cikket azonnal!
-1. **Cím + Absztrakt:** Megválaszolja a kérdését? Ha nem -> Kuka.
+1. **Cím + Absztrakt:** Megválaszolja a kérdését? Releváns a hipotézis tekintetében? Ha nem -> Kuka.
 2. **Ábrák / Táblázatok:** Gyorsan áttekinthetők.
 3. **Bevezetés & Következtetés (Conclusion):** Milyen eredményre jutottak, kell ez nekem a dolgozatba?
 4. **Teljes cikk:** Csak akkor olvassa végig, ha valóban kulcsfontosságú a dolgozat és a kutatás szempontjából!
