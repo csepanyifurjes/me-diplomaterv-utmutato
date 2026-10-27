@@ -1,6 +1,9 @@
 # Hagyományos Irodalomkutatás Cheat Sheet
 
-> **Cél:** Gyors, hatékony és rendszerezett útmutató diplomatervezőknek az elméleti háttér összefoglalásához.
+**A cheat sheet célja**
+
+Gyors, hatékony és rendszerezett útmutató a Miskolci Egyetem Informatikai Intézet diplomatervező és szakdolgozó hallgatói számára, az elméleti háttér összefoglalásához.
+
 
 Az irodalomkutatás feladata biztosítani, hogy a végzett kutatás és az elkészült dolgozat állításai tudományosan megalapozottak legyenek. Ebből a célból áttekintjük a tudomány jelenlegi állását a közzétett publikációk tanulmányozása révén és azokat a cikkeket, közleményeket behivatkozzuk a saját dolgozatunkban, melyeket relevánsnak találunk.
 
@@ -97,10 +100,11 @@ Amennyiben a formátum megköveteli, a hivatkozás történhet számmal is:
 
 ---
 
-##  Gyors Csekklista a Diplomatervhez
+##  Gyors csekklista a diplomatervhez
 
 - [ ] Megvan a 15–25 releváns, döntően angol nyelvű szakirodalom?
 - [ ] Be vannak importálva a források Mendeley-be (PDF-fel együtt)?
 - [ ] Minden állítást, ami nem a saját gondolat/eredmény, alátámasztott hivatkozással?
 - [ ] Egységes a hivatkozási stílus az egész dokumentumban?
+- [ ] Követi a dokumentum a meghatározott template hivatkozási forátumát?
 
