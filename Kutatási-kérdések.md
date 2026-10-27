@@ -20,11 +20,11 @@ Bár mindkét műben elvárás a rendszerszemlélet és a szakmai precizitás, a
 
 ## 1. A jó Kutatási Kérdés (Research Question - RQ)
 
-A kutatási kérdés határozza meg, hogy **pontosan mire keresed a választ** a dolgozatodban.
+A kutatási kérdés határozza meg, hogy **pontosan mire keresi a választ** a dolgozatában.
 
 ### A jó kutatási kérdés ismérvei (FINER-modell):
 * **Focussed (Fókuszált):** Nem túl általános, konkrétan lehatárolt.
-* **Informative (Informatív):** Nem válaszolható meg egy egyszerű „igen”-nel vagy „nem”-mel (inkább: *Hogyan...? Milyen mértékben...? Milyen kapcsolat van...?*).
+* **Informative (Informatív):** Nem válaszolható meg egy egyszerű "igen"-nel vagy "nem"-mel (inkább: *Hogyan...? Milyen mértékben...? Milyen kapcsolat van...?*).
 * **Novel (Újszerű/Releváns):** Van szakmai vagy gyakorlati értéke.
 * **Ethical (Etikus):** Megfelel a tudományetikai szabályoknak.
 * **Realistic (Reális):** A rendelkezésre álló időben és erőforrásokkal megválaszolható.
@@ -33,12 +33,17 @@ A kutatási kérdés határozza meg, hogy **pontosan mire keresed a választ** a
 
 ## 2. A jó Hipotézis (Hypothesis - H)
 
-A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdésed lehetséges válaszára vagy változók közötti kapcsolatára.
+A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdése lehetséges válaszára vagy változók közötti kapcsolatára.
+
+A _"változók közötti kapcsolat"_ a tudományos kutatás egyik alappillére. Azt jelenti, hogy a kutatás során megvizsgál két vagy több olyan tényezőt, 
+amelyek képesek változni (értéket, állapotot vagy viselkedést váltani), és feltételez egyfajta ok-okozati vagy együttmozgási összefüggést 
+közöttük.
+_"Ha megváltoztatom az X-et (pl. algoritmust, paramétert, architektúrát), akkor az Y (pl. idő, sebesség, hibaarány) megjósolható módon reagálni fog erre."_
 
 ### A jó hipotézis aranyszabályai:
 
 1. **Tesztelhető és cáfolható:** Olyan állítás, amelyet kísérlettel, méréssel, adatelemzéssel vagy szimulációval igazolni vagy cáfolni lehet.
-2. **Kétoldalú/Semleges megközelítés:** A kutatóként nem az a célod, hogy "mindenáron igazad legyen", hanem az, hogy objektíven megvizsgáld az állítást. **A cáfolt hipotézis is értékes tudományos eredmény!**
+2. **Kétoldalú/Semleges megközelítés:** A kutatóként nem az a célja, hogy "mindenáron igaza legyen", hanem az, hogy objektíven megvizsgálja az állítást. **A cáfolt hipotézis is értékes tudományos eredmény!**
 3. **Egyértelmű változók:** Világosan megnevezi a vizsgált tényezőket (pl. *X módszer hatása Y paraméterre*).
 
 ---
@@ -82,7 +87,7 @@ A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdés
 
 Mielőtt leadja a konzulensnek a kérdéseket és hipotéziseket:
 
-- [ ] **Nem „igen/nem” kérdés?** (A kérdés *hogyan*, *miért* vagy *milyen mértékben* kezdődik, nem pedig egy eldöntendő kérdés.)
+- [ ] **Nem "igen/nem" kérdés?** (A kérdés *hogyan*, *miért* vagy *milyen mértékben* kezdődik, nem pedig egy eldöntendő kérdés.)
 - [ ] **Mérhető vagy tesztelhető?** (Van benne valamilyen összehasonlítás, metrika, teljesítményhatár vagy szempontrendszer?)
 - [ ] **Reális a keretek között?** (A félév/diplomaterv ideje alatt, a meglevő eszközökkel megválaszolható?)
 - [ ] **Illeszkedik a témához?** (Nem kalandozik el a dolgozat fő fókuszától?)
