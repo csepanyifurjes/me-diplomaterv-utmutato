@@ -66,13 +66,13 @@ A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdés
 
 ## Gyakorlati tippek a megfogalmazáshoz
 
-> [!TIP] **1. Kezdje a szakirodalommal!**
+> **1. Kezdje a szakirodalommal!**
 > Ne találjon ki hipotézist azelőtt, hogy átnézte volna az irodalmat. A jó hipotézis a korábbi kutatások hiányosságaiból (*research gap*) vagy eredményeiből táplálkozik.
 
-> [!TIP] **2. Helyi kutatási szálak és konzulensi egyeztetés**
+> **2. Helyi kutatási szálak és konzulensi egyeztetés**
 > Ne feledje, hogy a **Miskolci Egyetem oktatói és kutatói** számos szakterületen folytatnak aktív kutatásokat. Ha a kutatási kérdését vagy hipotézisét a konzulense/oktatója futó kutatásaihoz vagy korábbi publikációihoz illeszti, azzal nemcsak a saját dolgát könnyíti meg (közvetlenül elérhető szakértelem és mérések), de hozzájárul az egyetemi kutatócsoportok eredményeihez is.
 
-> [!TIP] **3. Hány kérdés/hipotézis kell?**
+> **3. Hány kérdés/hipotézis kell?**
 > * **Szakdolgozatnál:** 1-2 fő kutatási kérdés (vagy célkitűzés) teljesen elegendő.
 > * **Diplomamunkánál:** 2-3 jól körülhatárolt kutatási kérdés és a hozzájuk tartozó 2-3 tesztelhető hipotézis az ideális.
 
