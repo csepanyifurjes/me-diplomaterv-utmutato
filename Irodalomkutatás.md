@@ -1,4 +1,4 @@
-# Hagyományos Irodalomkutatás Cheat Sheet
+# Hagyományos irodalomkutatás - Cheat Sheet
 
 **A cheat sheet célja**
 
