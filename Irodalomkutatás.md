@@ -106,5 +106,5 @@ Amennyiben a formátum megköveteli, a hivatkozás történhet számmal is:
 - [ ] Be vannak importálva a források Mendeley-be (PDF-fel együtt)?
 - [ ] Minden állítást, ami nem a saját gondolat/eredmény, alátámasztott hivatkozással?
 - [ ] Egységes a hivatkozási stílus az egész dokumentumban?
-- [ ] Követi a dokumentum a meghatározott template hivatkozási forátumát?
+- [ ] Követi a dokumentum a meghatározott template hivatkozási formátumát?
 
