@@ -22,23 +22,27 @@ Bár mindkét műben elvárás a rendszerszemlélet és a szakmai precizitás, a
 
 A kutatási kérdés határozza meg, hogy **pontosan mire keresi a választ** a dolgozatában.
 
-### A jó kutatási kérdés ismérvei (FINER-modell):
-* **Focussed (Fókuszált):** Nem túl általános, konkrétan lehatárolt.
+### A jó kutatási kérdés ismérvei (informatikai környezetre adaptált FINER-szempontrendszer<sup>*</sup>):
+* **Focused (Fókuszált):** Nem túl általános, konkrétan lehatárolt.
 * **Informative (Informatív):** Nem válaszolható meg egy egyszerű "igen"-nel vagy "nem"-mel (inkább: *Hogyan...? Milyen mértékben...? Milyen kapcsolat van...?*).
 * **Novel (Újszerű/Releváns):** Van szakmai vagy gyakorlati értéke.
 * **Ethical (Etikus):** Megfelel a tudományetikai szabályoknak.
 * **Realistic (Reális):** A rendelkezésre álló időben és erőforrásokkal megválaszolható.
 
+<small>[* Eredeti FINER modell](https://en.wikipedia.org/wiki/Research_question)</small> 
+
 ---
 
 ## 2. A jó Hipotézis (Hypothesis - H)
 
-A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdése lehetséges válaszára vagy változók közötti kapcsolatára.
+A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdés lehetséges válaszára vagy változók közötti kapcsolatára.
 
 A _"változók közötti kapcsolat"_ a tudományos kutatás egyik alappillére. Azt jelenti, hogy a kutatás során megvizsgál két vagy több olyan tényezőt, 
-amelyek képesek változni (értéket, állapotot vagy viselkedést váltani), és feltételez egyfajta ok-okozati vagy együttmozgási összefüggést 
-közöttük.
+amelyek képesek változni (értéket, állapotot vagy viselkedést váltani), és feltételez egyfajta ok-okozati (implikációs) vagy együttmozgási (korrelációs) összefüggést 
+közöttük. Ok-okozati (implikációs) kapcsolat azt jelenti, hogy az egyik tényező közvetlenül előidézi a másikat (ha megváltoztatjuk X-et, az okozza az Y változását). Ezzel szemben a korrelációs (együttmozgási) kapcsolat csak azt mutatja, hogy a két változó együtt mozog, de ebből még nem következik automatikusan, hogy az egyik a másik oka lenne (lehet, hogy egy harmadik, rejtett tényező mozgatja mindkettőt).
+
 _"Ha megváltoztatom az X-et (pl. algoritmust, paramétert, architektúrát), akkor az Y (pl. idő, sebesség, hibaarány) megjósolható módon reagálni fog erre."_
+
 
 ### A jó hipotézis aranyszabályai:
 
@@ -51,11 +55,11 @@ _"Ha megváltoztatom az X-et (pl. algoritmust, paramétert, architektúrát), ak
 ## Példák (Informatikai / Mérnöki / Műszaki kontextus)
 
 ### Gyenge / Rossz példák:
-* ❌ *RQ:* Jó-e a Python a gépi tanuláshoz? *(Túl általános, triviális válasz)*
-* ❌ *H:* A saját algoritmusom sokkal jobb lesz, mint a többi. *(Nem mérhető, szubjektív, nem pontos)*
+* ❌ *RQ:* Jó-e a Python a gépi tanuláshoz? *(Túl általános, az, hogy mi a jó túl szubjektív, a válasz lehet triviális)*
+* ❌ *H:* A saját algoritmusom sokkal jobb lesz, mint a többi. *(Nem mérhető, szubjektív, nem pontos, konkretizálni, hogy milyen szempontból, és hogy mi a többi)*
 
 ### Jó példák:
-* ✅ **RQ1:** *Milyen mértékben csökkenti a konvolúciós hálók (CNN) tanítási idejét a megadott adathalmazon a metszési (pruning) eljárás alkalmazása a modellpontosság romlása nélkül?*
+* ✅ **RQ1:** *Milyen mértékben csökkenti a konvolúciós neurális hálózat (CNN) tanítási idejét a megadott adathalmazon a metszési (pruning) eljárás alkalmazása a modellpontosság romlása nélkül?*
 * ✅ **H1:** *A modelltömörítési (pruning) eljárás alkalmazásával a tanítási idő legalább 20%-kal csökkenthető úgy, hogy a pontosságvesztés nem haladja meg az 1,5 százalékpontot.*
 
 
@@ -72,7 +76,7 @@ _"Ha megváltoztatom az X-et (pl. algoritmust, paramétert, architektúrát), ak
 ## Gyakorlati tippek a megfogalmazáshoz
 
 > **1. Kezdje a szakirodalommal!**
-> Ne találjon ki hipotézist azelőtt, hogy átnézte volna az irodalmat. A jó hipotézis a korábbi kutatások hiányosságaiból (*research gap*) vagy eredményeiből táplálkozik.
+> Saját hipotézisét, eredeti elképzelését - amennyiben van - jegyezze föl, hogy legyen egy saját kiindulópontja. A konkrét hipotézis megfogalmazása előtt azonban nézze át a szakirodalmat. A jó hipotézis a korábbi kutatások hiányosságaiból (*research gap*) vagy eredményeiből táplálkozik.
 
 > **2. Helyi kutatási szálak és konzulensi egyeztetés**
 > Ne feledje, hogy a **Miskolci Egyetem oktatói és kutatói** számos szakterületen folytatnak aktív kutatásokat. Ha a kutatási kérdését vagy hipotézisét a konzulense/oktatója futó kutatásaihoz vagy korábbi publikációihoz illeszti, azzal nemcsak a saját dolgát könnyíti meg (közvetlenül elérhető szakértelem és mérések), de hozzájárul az egyetemi kutatócsoportok eredményeihez is.
