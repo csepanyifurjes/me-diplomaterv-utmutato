@@ -39,7 +39,7 @@ A hipotézis egy **tesztelhető, előzetes feltételezés** a kutatási kérdés
 
 A _"változók közötti kapcsolat"_ a tudományos kutatás egyik alappillére. Azt jelenti, hogy a kutatás során megvizsgál két vagy több olyan tényezőt, 
 amelyek képesek változni (értéket, állapotot vagy viselkedést váltani), és feltételez egyfajta ok-okozati (implikációs) vagy együttmozgási (korrelációs) összefüggést 
-közöttük. Ok-okozati (implikációs) kapcsolat azt jelenti, hogy az egyik tényező közvetlenül előidézi a másikat (ha megváltoztatjuk X-et, az okozza az Y változását). Ezzel szemben a korrelációs (együttmozgási) kapcsolat csak azt mutatja, hogy a két változó együtt mozog, de ebből még nem következik automatikusan, hogy az egyik a másik oka lenne (lehet, hogy egy harmadik, rejtett tényező mozgatja mindkettőt).
+közöttük. Implikációs kapcsolat azt jelenti, hogy az egyik tényező közvetlenül előidézi a másikat (ha megváltoztatjuk X-et, az okozza az Y változását). Ezzel szemben a korrelációs kapcsolat csak azt mutatja, hogy a két változó együtt mozog, de ebből még nem következik automatikusan, hogy az egyik a másik oka lenne (lehet, hogy egy harmadik, rejtett tényező mozgatja mindkettőt).
 
 _"Ha megváltoztatom az X-et (pl. algoritmust, paramétert, architektúrát), akkor az Y (pl. idő, sebesség, hibaarány) megjósolható módon reagálni fog erre."_
 
